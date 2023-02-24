@@ -1,0 +1,2 @@
+library {{feature.lowerCase()}};
+
